@@ -13,8 +13,8 @@ body> main{
 }
 
 .homeBG {
-    width:100%;
-    background: url(/img/GridBG.png);
+    width: 100%;
+    background: url(../img/GridBG.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
